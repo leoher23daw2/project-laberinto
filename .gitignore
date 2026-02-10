@@ -62,7 +62,3 @@ Packages/*
 # Archivos de sistema operativo
 .DS_Store
 Thumbs.db
-
-# Archivos de Git
-.git/
-.gitignore
