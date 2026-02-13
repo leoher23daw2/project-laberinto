@@ -24,4 +24,4 @@ Para ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/leoher23daw2/unity-test.git
+   git clone https://github.com/leoher23daw2/project-laberinto.git
