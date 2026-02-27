@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ae55dff86efbbf045acc73240ff2362b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4322462001355569506
+    second: correr monstruo2_0
+  - first:
+      213: -7841868806431211792
+    second: correr monstruo2_1
+  - first:
+      213: 5314642348116895046
+    second: correr monstruo2_2
+  - first:
+      213: 3388132257498591976
+    second: correr monstruo2_3
+  - first:
+      213: 1975454725640626638
+    second: correr monstruo2_4
+  - first:
+      213: 5957080523870052633
+    second: correr monstruo2_5
+  - first:
+      213: -241607044508363038
+    second: correr monstruo2_6
+  - first:
+      213: -2707865416872904755
+    second: correr monstruo2_7
+  - first:
+      213: -7617646705557418493
+    second: correr monstruo2_8
+  - first:
+      213: -786470846425780013
+    second: correr monstruo2_9
+  - first:
+      213: 6494491476107326985
+    second: correr monstruo2_10
+  - first:
+      213: -4183518468255686120
+    second: correr monstruo2_11
+  - first:
+      213: -3114209146105874350
+    second: correr monstruo2_12
+  - first:
+      213: 7075545807868703959
+    second: correr monstruo2_13
+  - first:
+      213: -2376645911027788272
+    second: correr monstruo2_14
+  - first:
+      213: 5125328091996909099
+    second: correr monstruo2_15
+  - first:
+      213: 481551649465560550
+    second: correr monstruo2_16
+  - first:
+      213: -3530060914709342668
+    second: correr monstruo2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correr monstruo2_0
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 250
+        width: 2101
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c31e06b78304c0800000000000000
+      internalID: -4322462001355569506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_1
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 245
+        width: 2153
+        height: 1271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe73795ed51c2390800000000000000
+      internalID: -7841868806431211792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_2
+      rect:
+        serializedVersion: 2
+        x: 4854
+        y: 1096
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64561c3be0761c940800000000000000
+      internalID: 5314642348116895046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_3
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 261
+        width: 2153
+        height: 1255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2fe3c4650150f20800000000000000
+      internalID: 3388132257498591976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_4
+      rect:
+        serializedVersion: 2
+        x: 7004
+        y: 264
+        width: 2140
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec12da74b993a6b10800000000000000
+      internalID: 1975454725640626638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_5
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 253
+        width: 2020
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9112cabac2dcba250800000000000000
+      internalID: 5957080523870052633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_6
+      rect:
+        serializedVersion: 2
+        x: 11482
+        y: 264
+        width: 2020
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d8d05ca3a5acf0800000000000000
+      internalID: -241607044508363038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_7
+      rect:
+        serializedVersion: 2
+        x: 13539
+        y: 264
+        width: 2020
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b9bf00cabb6ad0800000000000000
+      internalID: -2707865416872904755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_8
+      rect:
+        serializedVersion: 2
+        x: 15687
+        y: 265
+        width: 2177
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e43da6eaea84690800000000000000
+      internalID: -7617646705557418493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_9
+      rect:
+        serializedVersion: 2
+        x: 17867
+        y: 265
+        width: 2177
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0379c9ee4e515f0800000000000000
+      internalID: -786470846425780013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_10
+      rect:
+        serializedVersion: 2
+        x: 20156
+        y: 252
+        width: 2202
+        height: 1137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906fd269691112a50800000000000000
+      internalID: 6494491476107326985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_11
+      rect:
+        serializedVersion: 2
+        x: 9151
+        y: 947
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812655c4e1821f5c0800000000000000
+      internalID: -4183518468255686120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_12
+      rect:
+        serializedVersion: 2
+        x: 11371
+        y: 947
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258361a084b18c4d0800000000000000
+      internalID: -3114209146105874350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_13
+      rect:
+        serializedVersion: 2
+        x: 13509
+        y: 947
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4b406ac63613260800000000000000
+      internalID: 7075545807868703959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_14
+      rect:
+        serializedVersion: 2
+        x: 15566
+        y: 947
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016dd4cc225740fd0800000000000000
+      internalID: -2376645911027788272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_15
+      rect:
+        serializedVersion: 2
+        x: 20051
+        y: 943
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e6ec89eb2d02740800000000000000
+      internalID: 5125328091996909099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_16
+      rect:
+        serializedVersion: 2
+        x: 22365
+        y: 943
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede56f7ca0dea600800000000000000
+      internalID: 481551649465560550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr monstruo2_17
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 930
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43652471d44b20fc0800000000000000
+      internalID: -3530060914709342668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      correr monstruo2_0: -4322462001355569506
+      correr monstruo2_1: -7841868806431211792
+      correr monstruo2_10: 6494491476107326985
+      correr monstruo2_11: -4183518468255686120
+      correr monstruo2_12: -3114209146105874350
+      correr monstruo2_13: 7075545807868703959
+      correr monstruo2_14: -2376645911027788272
+      correr monstruo2_15: 5125328091996909099
+      correr monstruo2_16: 481551649465560550
+      correr monstruo2_17: -3530060914709342668
+      correr monstruo2_2: 5314642348116895046
+      correr monstruo2_3: 3388132257498591976
+      correr monstruo2_4: 1975454725640626638
+      correr monstruo2_5: 5957080523870052633
+      correr monstruo2_6: -241607044508363038
+      correr monstruo2_7: -2707865416872904755
+      correr monstruo2_8: -7617646705557418493
+      correr monstruo2_9: -786470846425780013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
