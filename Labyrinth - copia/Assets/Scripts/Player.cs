@@ -75,7 +75,7 @@ public class Player : MonoBehaviour
 
         healthImage.fillAmount = health / 100f;
 
-        if (transform.position.y < -64)
+        if (transform.position.y < -100)
         {
             Die();
         }
