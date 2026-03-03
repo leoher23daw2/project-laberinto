@@ -8,7 +8,7 @@ Este es un juego de plataformas 2D que permite a los jugadores explorar, recoger
 
 ## Características
 
-- **Nivel diverso**: Nivele con diferentes desafíos.
+- **Nivel diverso**: Nivel con diferentes desafíos.
 - **Mecánicas de juego**: Saltos, movimientos y recogida de objetos.
 - **Enemigos**: Diferentes tipos de enemigos con comportamientos variados.
 - **Puntuación**: Sistema de puntuación basado en objetos recogidos.
