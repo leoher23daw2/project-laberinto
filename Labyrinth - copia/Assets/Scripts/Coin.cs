@@ -18,6 +18,7 @@ public class Coin : MonoBehaviour
             player.coins += 1;
             coinText.text = player.coins.ToString();
             Destroy(gameObject);
+            // Debug.Log("You caught a coin"); // Mira sin has cogido una moneda.
         }
     }
 }

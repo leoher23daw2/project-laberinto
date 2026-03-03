@@ -18,6 +18,7 @@ public class Collectable : MonoBehaviour
             player.collectables += 1;
             collectableText.text = player.collectables.ToString();
             Destroy(gameObject);
+            // Debug.Log("You caught a collectible"); // Mira sin has cogido un coleccionable.
         }
     }
 }

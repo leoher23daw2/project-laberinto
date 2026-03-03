@@ -1,12 +1,12 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class Player : MonoBehaviour
 {
     public int coins;
     public int collectables;
+    public int keys;
     public int health = 100;
     public float moveSpeed = 5f;
     public float jumpForce = 10f;
@@ -67,7 +67,7 @@ public class Player : MonoBehaviour
             {
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
                 extraJumps--;
-                Debug.Log("extraJump"); // Mira sin funcionan los saltos extras.
+                // Debug.Log("extraJump"); // Mira sin funcionan los saltos extras.
             }
         }
 
@@ -123,7 +123,7 @@ public class Player : MonoBehaviour
             health -= 10;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             StartCoroutine(BlinkRed());
-            Debug.Log("Damage"); // Muesta cuando te hace daño.
+            // Debug.Log("Damage"); // Muesta cuando te hace daño.
 
             if (health <= 0)
             {

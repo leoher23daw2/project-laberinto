@@ -32,13 +32,13 @@ public class MovingPlatform : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             collision.transform.SetParent(transform);
-            Debug.Log("Collision Enter"); // Muesta cuando está colisionando con la plataforma.
+            // Debug.Log("Collision Enter"); // Muesta cuando está colisionando con la plataforma.
         }
     }
 
     private void OnCollisionExit2D(Collision2D collision)
     {
         collision.transform.SetParent(null);
-        Debug.Log("Collision Exit"); // Muesta cuando no colisionando con la plataforma.
+        // Debug.Log("Collision Exit"); // Muesta cuando no colisionando con la plataforma.
     }
 }

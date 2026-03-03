@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5568123217548570996}
   - component: {fileID: 7119673405825412387}
   m_Layer: 0
-  m_Name: Caja 1
+  m_Name: Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,8 +27,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6355327229735286750}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.1569, y: -1.6425, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 63.152496, y: -41.23114, z: 0}
   m_LocalScale: {x: 0.3, y: 0.3, z: 1.1473}
   m_ConstrainProportionsScale: 0
   m_Children: []
